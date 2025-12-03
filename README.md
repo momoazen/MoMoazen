@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MustafaMoazen
+- 👋 Hi, I’m Mo
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning openSim api and python
 - 💞️ I’m looking to collaborate on IMU
