@@ -7,7 +7,7 @@ I’m interested in building practical systems at the intersection of embedded A
 - Embedded AI pipelines for low-power devices
 - TinyML applications for real-world sensing
 - Wearable systems for health and human-centered monitoring
-- Signal processing workflows for noisy physiological and motion data
+- Signal processing workflows for health data and motion data
 
 **Languages**  
 Python, C, MATLAB, Verilog
